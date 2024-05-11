@@ -120,6 +120,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+# 忽略虚拟环境目录
+blog-venv/
 .env
 .venv
 env/
